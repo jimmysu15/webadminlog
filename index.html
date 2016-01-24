@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="zh-TW">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+
+    <title>用 Google Analytics 做超簡易型系統操作紀錄</title>
+
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/owl.carousel.css" rel="stylesheet" media="screen">
+    <link href="css/owl.theme.css" rel="stylesheet" media="screen">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet"> 
+ 
+  </head>
+
+  <body>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-113704-27', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    <div class="navbar-wrapper">
+        <nav class="navbar mainnav navbar-inverse">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="icon-text">選單</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">用 Google Analytics 做超簡易型系統操作紀錄</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">首頁</a></li>
+                <li><a href="#feature_wrap">功能簡介</a></li>                
+                <li><a href="#notice_wrap">注意事項</a></li>
+                <li><a href="#sample_wrap">使用範例</a></li>
+                               
+              </ul>
+              
+            </div>
+          </div>
+        </nav>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="images/macbook-624707_1920.jpg" alt="First slide" style="opacity: .5">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 data-animation="animated bounceInRight">系統太陽春，竟然沒有操作紀錄?</h1>
+              <p data-animation="animated bounceInRight">報價高昂，製作工時相當長，<br>紀錄得非常簡單，有記等於沒記?</p>
+              <p data-animation="animated zoomInUp"><a class="btn btn-lg btn-success" href="#" role="button"><span class="glyphicon glyphicon-hand-right"></span> 解決此問題</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="images/slide2.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 data-animation="animated bounceInUp">訂單資料有誤、商品 key 錯，資料不見</h1>
+              <p data-animation="animated bounceInDown">沒有人要承認，<br>要如何釐清出包責任?</p>
+              <p data-animation="animated zoomInRight"><a class="btn btn-lg btn-danger" href="#" role="button">今天就把監控機制補上 <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="images/office-594132_1920.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 data-animation="animated bounceInUp" style="color:#000">想要更了解您的系統操作者?</h1>
+              <p data-animation="animated bounceInDown" style="color:#000;">瀏覽器、螢幕解析度、操作頻率、人數、裝置類型，通通看透透。</p>
+              <p data-animation="animated zoomInRight"><a class="btn btn-lg btn-success" href="#" role="button"><span class="glyphicon glyphicon-ok"></span> 我想要使用此功能</a></p>
+            </div>
+          </div>
+        </div>         
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+
+    <div id="about_wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-18">                    
+                        <div class="title_wrap scrollflow -slide-right -opacity">
+                            <h2 class="intro_title">超簡易型系統操作紀錄</h2>
+                            <h3>了解客戶做了什麼事，也了解工作人員做了什麼事。<br>使用 Google Analytics 標準版系統做為數據儲存處。</h3>
+                        </div>
+                        <p class="intro">低成本，微應用。</p>                        
+                  </div>
+                  <div class="col-md-10 col-sm-18">
+                        <div class="gaintro scrollflow -slide-left -opacity">
+                            <img src="images/gaicon.jpg" class="pull-left" width="160" height="160">
+                            <h2>使用 Google Analytics 的好處</h2>
+                            <ul class="gafeature">
+                                <li>方便的各種 API 與網路資源</li>
+                                <li>應有盡有的使用者資訊記錄功能</li>
+                                <li>功能強大的查詢介面</li>
+                                <li>穩定性高、不維修、不中斷。</li>
+                            </ul>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="feature_wrap" class="text-center">
+        <div class="overlay">
+            <div class="container">
+                <div class="title_wrap center">
+                    <h2 class="scrollflow -slide-right -opacity">功能簡介 <strong>Features</strong></h2>
+                    <div class="line"></div>
+                    <p></p>
+                </div>
+            </div>
+                <div id="feature" class="row">
+                    <div class="col-md-5 item scrollflow -pop">
+                        <div class="thumbnail">
+                            <img src="images/logcate.jpg" alt="紀錄分類功能" class="">
+                            <div class="caption">
+                                <h3>紀錄分類功能</h3>                                
+                                <p>可選擇紀錄分類方式，如依管理員帳號分類，依功能區塊分類...</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 item scrollflow -pop">
+                        <div class="thumbnail">
+                            <img src="images/logtag.jpg" alt="紀錄執行動作" class="">
+                            <div class="caption">
+                                <h3>自訂事件紀錄</h3>                                
+                                <p>紀錄執行動作的相關資訊，如操作人員名稱、時間、執行動作...</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!-- prod -->
+        </div><!-- overlay -->
+    </div><!-- feature_wrap -->
+
+    <!-- Services Section
+    ==========================================-->
+    <div id="notice_wrap" class="text-center">
+        <div class="container">
+            <div class="title_wrap center">
+                <h2 class="scrollflow -slide-right -opacity">注意事項 <strong>Notice</strong></h2>
+                <div class="line"></div>              
+                <p>技術絕非萬能，使用前請詳閱公開說明書。</p>
+            </div>
+            <div class="space"></div>
+            <div class="row">
+                <div class="col-md-9 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>系統需求</strong></h4>
+                    <ul>
+                        <li>可連線至 Google Analytics 的網路環境。<a href="javascript:void(0)" class="checkana btn btn-default btn-xs">check</a></li>
+                        <li>可正常執行 Java Script 功能的瀏覽器。<noscript><span class="text-alert">您的瀏覽器 Java Script 功能異常。</span></noscript></li>
+                        <li>jQuery 版本 1.9.0 以上</li>
+                    </ul>
+                </div>
+                <div class="col-md-9 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>Google Analytics 版本需求</strong></h4>
+                    <p>避免受 cookies 等功能影響，以及使用新型的事件追蹤 API，<br>本功能使用通用版分析(analytics.js)，<br>若您的網站仍使用傳統版分析程式(ga.js)，建議升級。</p>
+                </div>
+                <div class="col-md-6 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>內網或封閉網路環境無法使用</strong></h4>
+                    <p>此功能使用外部 Google Analytics 作為紀錄存取處，若系統網路所在環境無法連線上網，或是無法正常使用外網連線資源，此功能將無法使用。</p>
+                </div>
+
+                <div class="col-md-6 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>紀錄僅供參考</strong></h4>
+                    <p>本功能主要使用 Java Script 技術，需仰賴使用者的瀏覽器才能正常運作，若使用者有開啟額外的瀏覽器設定，或安裝額外的套件，紀錄仍有被竄改或停用的機會。</p>
+                </div>
+
+                <div class="col-md-6 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>無法自動產生 IP Address</strong></h4>
+                    <p>Google Analytics 有<a href="https://support.google.com/analytics/answer/2763052" target="_blank">IP 匿名處理</a>機制，無法直接看到每個瀏覽者的 IP。請額外透過前端或後端語法偵測使用者 IP，再一起送到 GA 內。<br>ps.若使用共享網路環境，多個使用者將記錄為同一個 IP。</p>
+                </div>
+
+                <div class="col-md-6 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>Google Analytics 標準版的資料流限制</strong></h4>
+                    <p>Google Analytics 標準版的資料流不是無限的，只要每個月 1000 超過萬次點擊 / 或單日超過 20 萬個使用者 / 或每個工作階段超過 500 次點擊，超過的就不會再紀錄，可能造成紀錄或報表統計結果不正確。(<a href="https://developers.google.com/analytics/devguides/collection/ios/v3/limits-quotas" target="_blank">相關說明</a>)，若有更大量的數據需求，請洽<a href="http://www.google.com/analytics/premium/" target="_blank">Google Analytics Premium</a></p>
+                </div>
+
+                <div class="col-md-6 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>Google Analytics 的數據保存時間</strong></h4>
+                    <p>Google 分析標準版的官方資料號稱只能調閱至少近 25 個月的資料，經過實測，至少 10 年前的資料都還調得到。數據保存期限依 Google Analytics 規定，不另行通知。(<a href="https://developers.google.com/analytics/devguides/collection/ios/v3/limits-quotas" target="_blank">相關說明</a>)，若有更大量的數據需求，請洽<a href="http://www.google.com/analytics/premium/" target="_blank">Google Analytics Premium</a></p>
+                </div>
+
+                <div class="col-md-6 col-sm-9 notice scrollflow -opacity">
+                    <h4><strong>Google Analytics 的政策規定</strong></h4>
+                    <p>使用前請詳閱 Google Analytics 的安全性與隱私權、合理使用範圍等相關政策規定，避免紀錄消費者的個人重要資訊，或進行超出合理使用範圍的操作，如有問題概不負責。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Clients Section
+    ==========================================-->
+    <div id="sample_wrap" class="text-center">
+        <div class="overlay">
+            <div class="container">
+
+                <div class="title_wrap center">
+                    <h2 class="scrollflow -slide-right -opacity"><strong>使用範例</strong></h2>
+                    <div class="line"></div>
+                    <p class="scrollflow -slide-right -opacity">1.請先完成 Google Analytics 的帳戶申請及嵌入，並確認網頁上的 jQuery 正常運作。</p>
+                </div>
+                <div id="sample">
+                    2.將程式碼複製到網頁內。<br>(以下範例為記錄點擊的按鈕名稱、按鈕所在頁面、時間，以管理員名稱為事件類別。)
+                    <pre>
+&lt;script&gt;
+function addZero(i) {if (i < 10) {i = "0" + i;} return i;}
+var currentdate = new Date(); 
+var datetime = currentdate.getFullYear() + "/" + (currentdate.getMonth()+1) + "/" + currentdate.getDate()  
++ " " + addZero(currentdate.getHours()) + ":"  + addZero(currentdate.getMinutes()) ;    
+
+$('.btn').click(function(){
+   var adminame = $('#adminname').text();
+   var adminclick = $(this).text();
+   var adminurl = location.pathname;
+   var admininfo = datetime +' ('+ adminclick +') '+ adminurl;
+   ga('send', 'event', adminame, 'click', admininfo);                            
+}); 
+&lt;/script&gt;
+                    </pre>
+                    3.點擊後台按鈕，查看行為>事件紀錄，或是即時>事件內是否有按鈕點擊紀錄。
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    
+
+    
+      <footer id="footer">        
+        <div class="container">
+            <p class="pull-right"><a href="#"><span class="glyphicon glyphicon-arrow-up"></span> 回頂端</a></p>
+
+                    <div class="row sitemap">
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <h3>本頁內容</h3>
+                            <ul>
+                                <li><a href="#feature_wrap">簡介</a></li>
+                                <li><a href="#notice_wrap">注意事項</a></li>
+                                <li><a href="#sample_wrap">使用範例</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-8">
+                            <h3>Changelog</h3>
+                            <ul class="news_list">
+                                <li>
+                                    <time class="news_date">201?/??/??</time> - 
+                                    <em class="news_title">增加懶人快速設定功能 (製作中...)</em>
+                                </li>
+                                <li>
+                                    <time class="news_date">2015/07/03</time> - 
+                                    <em class="news_title">增加事件紀錄</em>
+                                </li>
+                                <li>
+                                    <time class="news_date">201?/??/??</time> - 
+                                    <em class="news_title">在後台系統掛上 Google analytics ，概述得知是否有人進來操作，與操作者的環境資訊。</em>
+                                </li>                            
+                            </ul>  
+                        </div>
+                        <div alss="bottominfo col-xs-12 col-sm-4 col-md-4">
+                            <h4 class="name">聯絡資訊</h4>
+                            <p class="tel"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> 服務專線: 886-3-12345678</p>
+                            <p class="fax"><span class="glyphicon glyphicon-print" aria-hidden="true"></span> 傳真: 886-3-12345678</p>
+                            <p class="email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>  <a href="mailto:su1205su@gmail.com">su1205su@gmail.com</a></p>
+                        </div>
+                    </div>        
+
+            
+            
+        </div>
+      </footer>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>    
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <script src="js/SmoothScroll.js"></script>
+    <script src="js/owl.carousel.js"></script>
+    <script src="js/scrollflow.js"></script>
+    <script src="js/control.js"></script>
+    <script>
+        $(function () { 
+            $('.checkana').click(function() {
+                $.ajax({
+                    url: "http://www.google-analytics.com/analytics.js?" + new Date().getTime(),
+                    context: document.body,
+                    error: function(jqXHR, exception) {
+                        $(this).text('無法使用');
+                    },
+                    success: function() {
+                        $(this).text('可使用').attr('disabled',true);
+                    }
+                })
+            });            
+        });
+    </script>
+  </body>
+</html>

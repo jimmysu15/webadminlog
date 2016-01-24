@@ -1,0 +1,1248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"lan",
+				"landscape	(style.css)"
+			],
+			[
+				"or",
+				"orientation	(style.css)"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fre",
+				"freight	(level_management.ascx)"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"c",
+				"collapse"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"ch",
+				"checklink	(index.aspx)"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"su",
+				"submenu	(top_menu.ascx)"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ce",
+				"cellpadding	Attr"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"dis",
+				"display:none"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"pd",
+				"padding"
+			],
+			[
+				"float",
+				"float:left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"nav",
+				"navright	(Index1.aspx)"
+			],
+			[
+				"pro",
+				"prop	.prop() - single"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"clas",
+				"class	Attr"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"borde",
+				"border-collapse"
+			],
+			[
+				"v",
+				"valign	Attr"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"lb",
+				"label	Tag"
+			],
+			[
+				"ja",
+				"javascript:void"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"calc",
+				"calc(100vh"
+			],
+			[
+				"cs",
+				"css	.css() - single"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"att",
+				"attr	.attr() - multiple"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sq",
+				"shipquery"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"td",
+				"text-decoration"
+			],
+			[
+				"tar",
+				"target=\"_blank"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"pfl",
+				"pflwine"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"a",
+				"align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tx",
+				"text-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"clo",
+				"clone	.clone()"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"intropop",
+				"intropoplink"
+			],
+			[
+				"img",
+				"imgrp"
+			],
+			[
+				"con",
+				"controls2.png	w:32 h:63"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"the",
+				"themeslider"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"hide",
+				"hideaddress"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"show",
+				"showvideo"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"clra",
+				"clear"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"tag",
+				"target=\"_blank"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"pag",
+				"pagibtn"
+			],
+			[
+				"logo",
+				"logo_adminrep.png	w:80 h:29"
+			],
+			[
+				"argin",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"page",
+				"pagelist.html"
+			],
+			[
+				"r",
+				"rb.jpg	w:900 h:675"
+			],
+			[
+				"wi",
+				"winery.jpg	w:900 h:1155"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"search",
+				"searchbtn"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"close",
+				"closeintro"
+			],
+			[
+				"pr",
+				"prodlist.html"
+			],
+			[
+				"pa",
+				"path.jpg	w:766 h:30"
+			],
+			[
+				"ha",
+				"hasClass	.hasClass()"
+			],
+			[
+				"po",
+				"prodlist.html"
+			],
+			[
+				"pli",
+				"pdlist_05.jpg	w:900 h:52"
+			],
+			[
+				"pl",
+				"pdlist_02.jpg	w:900 h:356"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"src",
+				"src	Attr"
+			],
+			[
+				"cl",
+				"click	.click()"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"ab",
+				"absolute"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"compa",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"di",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"htmlti",
+				"HTMLBeautify"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/+pf.replace('' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Webcase/云端/web/admin"
+	],
+	"file_history":
+	[
+		"/D/Webcase/鈁舟/web/Company/List.aspx.cs",
+		"/C/Users/designer001/Desktop/main.js",
+		"/D/Webcase/媽媽魚/201506/admin/login.aspx",
+		"/D/Webcase/媽媽魚/201506/admin/index.aspx",
+		"/D/Webcase/云端/web/admin/login.aspx",
+		"/D/Webcase/云端/web/admin/index.aspx",
+		"/D/Webcase/酒窩/web/Products.ascx",
+		"/D/Webcase/酒窩/web/admin/web_advertise.js",
+		"/D/Webcase/酒窩/web/admin/web_advertise.ascx",
+		"/D/Webcase/酒窩/web/Products.ascx.cs",
+		"/D/Webcase/酒窩/web/admin/admin_style.css",
+		"/D/Webcase/酒窩/web/Index.aspx",
+		"/D/Webcase/媽媽魚/201506/css/layout.css",
+		"/D/Webcase/上官昭儀/201504/admin/index.aspx",
+		"/D/Webcase/酒窩/web/admin/record.js",
+		"/D/Webcase/酒窩/web/css/news.css",
+		"/D/Webcase/酒窩/web/admin/index.aspx",
+		"/D/Webcase/傑儒/googleAnalysis.js",
+		"/D/Webcase/酒窩/web/ckeditor/config.js",
+		"/D/Webcase/酒窩/web/css/pd.css",
+		"/D/Webcase/酒窩/web/ProductsList.ascx.cs",
+		"/C/Users/designer001/Desktop/contact.aspx.cs",
+		"/D/Webcase/云端/web/Web.config",
+		"/D/Webcase/薇尼格/201506/web/index.aspx",
+		"/D/Webcase/薇尼格/201506/web/index.aspx.cs",
+		"/D/Webcase/云端/web/admin/admin_style.css",
+		"/D/Webcase/酒窩/web/Admin/order_detail.ascx",
+		"/D/Webcase/酒窩/web/Admin/index.aspx",
+		"/D/Webcase/云端/web/admin/record.js",
+		"/D/Webcase/酒窩/web/Admin/record.js",
+		"/D/Webcase/廣誠/米九十露/web/index.aspx.cs",
+		"/D/Webcase/云端/web/Cart.aspx",
+		"/D/Webcase/云端/web/cart.css",
+		"/D/Webcase/薇尼格/201506/web/web_setting.ascx",
+		"/D/Webcase/廣誠/米九十露/web/config_loader.cs",
+		"/D/Webcase/廣誠/米九十露/web/menu_list.ascx",
+		"/D/Webcase/廣誠/米九十露/web/menu_list.ascx.cs",
+		"/D/Webcase/薇尼格/201506/web/Categories.aspx.cs",
+		"/D/Webcase/薇尼格/201506/web/menu_list.ascx.cs",
+		"/D/Webcase/薇尼格/201506/web/p.aspx",
+		"/D/Webcase/廣誠/米九十露/web/WebHelper.cs",
+		"/D/Webcase/酒窩/web/Admin/login.aspx",
+		"/D/Webcase/酒窩/web/control.js",
+		"/D/Webcase/酒窩/web/Init.ascx.cs",
+		"/D/Webcase/酒窩/web/css/index.css",
+		"/D/Webcase/酒窩/web/css/style.css",
+		"/D/Webcase/廣誠/米九十露/web/index.aspx",
+		"/D/Webcase/泓森/web/checklist/index.aspx",
+		"/D/Webcase/酒窩/web/admin/custom_pages.ascx",
+		"/D/Webcase/酒窩/web/scale.html",
+		"/D/Webcase/酒窩/web/css/pd2.css",
+		"/D/Webcase/酒窩/web/News.ascx",
+		"/D/Webcase/薇尼格/gdo_backup/Web.config",
+		"/D/Webcase/酒窩/web/NewsList.ascx",
+		"/D/Webcase/酒窩/web/Web.config",
+		"/C/Users/designer001/Desktop/FileZilla20150612.xml",
+		"/D/Webcase/酒窩/web/ProductsList.ascx",
+		"/D/Webcase/酒窩/web/LeftItem.ascx",
+		"/D/Webcase/泓森/web/checklist/index.aspx.cs",
+		"/D/Webcase/泓森/web/checklist/bak/index.aspx.cs",
+		"/D/Webcase/酒窩/web/sitemap.xml",
+		"/D/Webcase/泓森/web/checklist/checklist.json",
+		"/D/Webcase/媽媽魚/201506/index.aspx.cs",
+		"/D/Webcase/媽媽魚/201506/index.aspx",
+		"/D/Webcase/上官昭儀/aurosuma/201506/index.htm",
+		"/C/Users/designer001/Desktop/待更新/ckeditor/README.md",
+		"/C/Users/designer001/Desktop/待更新/ckeditor/CHANGES.md",
+		"/C/Users/designer001/Desktop/待更新/ckeditor/ckeditor.js",
+		"/D/Webcase/707酒窖/Web.config",
+		"/D/Webcase/媽媽魚/201506/Preferential.aspx",
+		"/C/Users/designer001/Desktop/待更新/ckfinder2.5.0.1/ckfinder/config.ascx",
+		"/D/Webcase/群海Xlites/B to B/web.config",
+		"/D/Webcase/埔心牧場/formtest.html",
+		"/D/Webcase/媽媽魚/201506/css/product_style.css",
+		"/D/Webcase/媽媽魚/201506/Preferential.aspx.cs",
+		"/D/Webcase/酒窩/web/Login.ascx",
+		"/D/Webcase/酒窩/web/Profile.ascx",
+		"/D/Webcase/埔心牧場/404.html",
+		"/D/Webcase/酒窩/web/css/login.css",
+		"/D/Webcase/廣誠/米九十露/web/newsstyle.css",
+		"/D/Webcase/廣誠/米九十露/web/news.aspx",
+		"/D/Webcase/廣誠/米九十露/web/style.css",
+		"/D/Webcase/烤友社/百烤匯/web/900.html",
+		"/D/Webcase/烤友社/百烤匯/web/1000.html",
+		"/D/Webcase/媽媽魚/201506/cart.aspx",
+		"/D/Webcase/媽媽魚/201506/cart.js",
+		"/D/Webcase/媽媽魚/201506/AJAX/Car_AJAX.ashx",
+		"/D/Webcase/廣誠/米九十露/web/control.js",
+		"/D/Webcase/廣誠/米九十露/web/index3.aspx",
+		"/D/Webcase/Velours美髮/201506/team.htm",
+		"/D/Webcase/Velours美髮/201506/main.js",
+		"/D/Webcase/Velours美髮/201506/swfobject_modified.js",
+		"/D/Webcase/云端/web/MasterPage.master.cs",
+		"/D/Webcase/云端/web/MasterPage.master",
+		"/D/Webcase/Velours美髮/201506/team2.html",
+		"/D/Webcase/Velours美髮/201506/team.html",
+		"/D/Webcase/Velours美髮/201506/style.css",
+		"/D/Webcase/媽媽魚/201506/Car_AJAX.ashx",
+		"/D/Webcase/媽媽魚/201506/product.aspx.cs",
+		"/D/Webcase/云端/web/Index.aspx",
+		"/D/Webcase/云端/web/Index.aspx.cs",
+		"/D/Webcase/酒窩/web/LeftItem.ascx.cs",
+		"/D/Webcase/云端/web/main.js",
+		"/D/Webcase/云端/web/admin/web_advertising.ascx",
+		"/D/Webcase/媽媽魚/201506/admin/User_Control/level_management.ascx",
+		"/D/Webcase/媽媽魚/201506/categories.aspx.cs",
+		"/D/Webcase/媽媽魚/201506/product.aspx",
+		"/D/Webcase/媽媽魚/201506/css/cart_style.css",
+		"/D/Webcase/媽媽魚/201506/cart.aspx.cs",
+		"/D/Webcase/廣誠/米九十露/web/ie8.css",
+		"/D/Webcase/酒窩/web/Init.ascx",
+		"/D/Webcase/酒窩/web/App_Data/OrderEmail2/1.html",
+		"/D/Webcase/酒窩/web/App_Data/OrderEmail/1.html",
+		"/D/Webcase/酒窩/web/App_Data/WelcomeEmail/1.html",
+		"/D/Webcase/酒窩/web/admin/init.ascx",
+		"/D/Webcase/酒窩/web/admin/custom_pages.js",
+		"/D/Webcase/酒窩/web/admin/custom_AJAX.ashx",
+		"/D/Webcase/廣誠/米九十露/checklist/index.aspx.cs",
+		"/D/Webcase/廣誠/米九十露/checklist/index.aspx",
+		"/D/Webcase/酒窩/web/css/onepage-scroll.css",
+		"/D/Webcase/酒窩/web/admin/web_advertise.ascx.cs",
+		"/D/Webcase/酒窩/web/admin/Advertise_AJAX.ashx.cs",
+		"/D/Webcase/廣誠/米九十露/checklist/App_Data/swd.json",
+		"/D/Webcase/廣誠/米九十露/checklist/WebHelper.cs",
+		"/D/Webcase/象文堂/WebHelper.cs",
+		"/C/Users/designer001/Desktop/checklist/index.aspx",
+		"/C/Users/designer001/Desktop/checklist/index.aspx.cs",
+		"/D/Webcase/酒窩/web/admin/order_detail.ascx"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"price",
+			"-",
+			"record",
+			"style=\"text-align:center;margin-bottom:30px;background:#fff\"",
+			"sortable",
+			"remove",
+			"newstitlebox",
+			".news_title",
+			"qua",
+			"buyqua",
+			"time",
+			"wait",
+			".ProdTable .td1 .btn",
+			".inv_add",
+			"inv_add",
+			"change",
+			"AreaCity",
+			"invoiceAddress",
+			"orderAdd",
+			"auth",
+			"meta",
+			"search",
+			"addZero",
+			"sao_",
+			"wa.",
+			"wa",
+			"550",
+			">li",
+			"fmstw",
+			"td",
+			"wrap",
+			"='image",
+			"image",
+			"price",
+			"pdname",
+			"sprice",
+			"related",
+			"PlaceHolder_LeftItem",
+			"temprop",
+			"itemprop",
+			"itemtype",
+			"price",
+			"a2",
+			"temprop",
+			"<li",
+			"pagelist",
+			"hair",
+			"<%=b1date %>",
+			"<%=a3 %>",
+			"c1",
+			"<%=a2 %>",
+			"footer",
+			"marq",
+			"-webkit-backface-visibility: hidden;",
+			"pddetail",
+			"trans",
+			"pdcointry",
+			"list-group-item-heading",
+			"update",
+			"FooterMenu",
+			"Buttom",
+			"PlaceHolderButtom",
+			"ContentPlaceHolderButtom",
+			"ChangeQuantity",
+			"changequantity",
+			"ChangQty",
+			"NAllProductSum",
+			"SDT",
+			"tr_discount1",
+			"Tr_Pur1",
+			"p_total",
+			"AllProductSum",
+			"AllProductSum'",
+			"AllProductSum",
+			"NAllProductSum",
+			"background-color: #7aa7da;line-height: 30px;text-align:left;",
+			"ProdName",
+			"ProdName.Text",
+			"PagePath",
+			"span",
+			"toshopping",
+			"Payment",
+			"總計",
+			"divPurchaseImg",
+			"themearea",
+			"Select_Category_1",
+			"#A_Sent",
+			"themearea",
+			"hide",
+			"3",
+			"SideAD",
+			"js",
+			"swd",
+			"WebHelper.Method.POST",
+			"Method",
+			"menu",
+			"savewaiting",
+			"menutoggle",
+			"yyyy",
+			"GetDelivery",
+			"bank",
+			"GetDelivery",
+			"update1",
+			"Literal_GDO",
+			"line",
+			"TextQuantity",
+			"allprod",
+			"AreaCity",
+			"zipcode2",
+			"aboutus",
+			"LiteralFooter",
+			"searchback",
+			"50",
+			"Quantity",
+			"TextQuantity",
+			"Barcode",
+			"SearchItem",
+			"newProNo",
+			"select",
+			"sort",
+			"Barcode",
+			"newProQty",
+			"newProNo",
+			"print1",
+			"新增",
+			"editornot",
+			"hidden",
+			"newslistblock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"advertisebtn\"",
+			"<input type=\"text\" class='date' name='A2date' value=\"<%=A2date[0] %>\">",
+			"<input type=\"text\" class='date' name='A2date' value=\"<%=A2date %>\">",
+			"<%=a3[0] %>",
+			"a3",
+			"<%=a2[0] %>",
+			"\"post\"",
+			"34_",
+			".",
+			"_",
+			"台南市麻豆區安業國小 屋頂泡沫水泥隔熱工程",
+			"20131231110704_",
+			"",
+			"tr class=\"info\"",
+			"",
+			"預覽",
+			"<td>",
+			"?type=LinkList",
+			"<i class=\"icon-star icon-white\"></i>加入 VIP 會員",
+			"<a href=\"#vipModal\" role=\"button\" class=\"viplink\" data-toggle=\"modal\"><i class=\"icon-star icon-white\"></i> 加入 VIP 會員</a>",
+			"viplink",
+			"",
+			"<script src=\"/js/html5.js\"></script>",
+			"",
+			"<i>*</i>",
+			"",
+			"form",
+			"不要動到",
+			":hover",
+			"<span>回覆此評論</span><i class=\"icon-comment-alt\"></i>",
+			"replybtn",
+			"<p class=\"cominfo\">會員等級，共 50 評論</p>",
+			"<p class=\"rpto\">此為回覆",
+			"alert('",
+			"<b>*</b>",
+			"ranknumimg",
+			"",
+			"泓森",
+			"js.async=true; js.src = \"//connect.facebook.net/zh_TW/sdk.js#xfbml=1&appId=223799794308706&version=v2.3\";",
+			"<option>紅酒</option><option>白酒</option><option>粉紅酒</option><option>香檳/氣泡酒</option><option>甜酒</option><option>加烈酒</option><option>威士忌</option><option>周邊商品</option>",
+			"<a href=\"prod.html\"><img src=\"upload/prod1.jpg\" class=\"pdimg\" alt=\"產品名稱\"></a>",
+			"<h3 class=\"pdname\"><a href=\"prod.html\">夢圖堡酒莊.古典陳釀.奇揚蒂紅酒\n				    				<span class=\"enname\">Monsanto Chianti Classico Riserva DOCG 2010</span></a>\n				    			</h3>",
+			"中壢市陸光五街38號",
+			"url(../images/",
+			"sprice",
+			"oprice",
+			"corolinemay56@yahoo.com.tw",
+			"<h3 class=\"pdname\">夢圖堡酒莊.古典陳釀.奇揚蒂紅酒",
+			"<img src=\"upload/prod1.jpg\" class=\"pdimg\" alt=\"產品名稱\">",
+			"<li>",
+			"<table width=\"1060\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr>\n    <td width=\"20\">&nbsp;</td>\n    <td align=\"left\" style=\"background:url(img/top_logo.png) no-repeat;\">&nbsp;</td>\n    <td width=\"550\" align=\"right\"><a href=\"index.html\"><img src=\"../img/topmenu_btn1.png\"/></a>\n        <a href=\"https://www.facebook.com/emmainfant\" target=\"_blank\"><img src=\"img/topmenu_btn2.png\"/></a>\n        <a href=\"contact.aspx\"><img src=\"img/topmenu_btn3.png\"/></a>\n        <a href=\"https://www.facebook.com/pages/%E6%A1%83%E5%9C%92%E7%B8%A3%E5%85%92%E7%AB%A5%E7%99%BC%E5%B1%95%E9%80%9A%E5%A0%B1%E8%BD%89%E4%BB%8B%E4%B8%AD%E5%BF%83/494730137242129\" target=\"_blank\" class=\"taoc\"><img src=\"img/topmenu_btn4.png\" alt=\"桃園縣兒童發展通報轉介中心\" /></a>\n    </td>\n    <td width=\"20\">&nbsp;</td>\n  </tr>\n</table>",
+			"href=\"javascript:void(0)\" ",
+			"",
+			".fadeIn();",
+			"總覽",
+			"雙營涼麵有限公司",
+			"<td colspan=\"3\" valign=\"top\" width=\"21%\" style=\"border-right:1px solid #fff\">公司編號：02-77164988<br /> ",
+			"<td colspan=\"3\" valign=\"top\" width=\"20%\" style=\"border-right:1px solid #fff\">公司編號：02-77164988<br /> ",
+			"<td colspan=\"2\" valign=\"top\" width=\"25%\">出貨日期：2015/12/25<br />",
+			"2015",
+			"<a href=\"#\">",
+			"",
+			"2/27(五)~3/1(日)",
+			"",
+			"waves-circle",
+			"",
+			"class=\"waves-effect waves-light waves-raised\"",
+			"class=\"waves-effect\"",
+			"<br>林先生",
+			"桃園市大豐路76號5樓-2<font color=\"#990000\">...</font> Tel:03-377-7258 <br> 展示場<font color=\"#990000\">...</font>桃園市龍潭區大昌路2段528號<font color=\"#990000\">...</font>03-4794528",
+			"",
+			"border:0",
+			"#C31C34",
+			"<img src=\"images/201501.jpg\" width=\"800\" height=\"580\" alt=\"百烤匯年終回饋系列活動\">",
+			"member",
+			"reghint",
+			"<p class=\"time\">2015/12/25</p>",
+			"",
+			"url(../images/",
+			"<a href=\"#\" class=\"addcart\">加到購物車</a>",
+			"",
+			"桃園市",
+			"桃園區",
+			"http://placekitten.com/920",
+			"920.jpg",
+			"",
+			"* ",
+			"'images/noimage.gif'",
+			"&quot;images/noimage.gif",
+			"/images/noimage.gif",
+			"<h3 class=\"prodname\"><a href=\"prodpage2.html\">",
+			" onerror=\"src='../images/noimage.gif'\"",
+			"upload",
+			"images/",
+			"",
+			"<link rel=\"icon\" type=\"image/png\" href=\"favicon.png\" /><link rel=\"stylesheet\" href=\"css/normalize.css\"/>",
+			"必填欄位",
+			"<a href=\"900.html#main\"><img src=\"images/201411.jpg\" width=\"800\" height=\"450\" alt=\"百烤匯年終回饋系列活動\"></a> ",
+			"prod1",
+			"<img src=\"images/201411.jpg\" width=\"800\" height=\"450\" alt=\"百烤匯年終回饋系列活動\">",
+			".eventprod",
+			"./images",
+			"/images",
+			"./images",
+			"../images",
+			"../../images",
+			"#eventcart",
+			"prodspec2",
+			"eventspec",
+			"option value=\"7\"",
+			"option value=\"4\"",
+			"select",
+			"src=\"images/201406.jpg\" width=\"800\" height=\"400\"",
+			"layer",
+			"max-width:",
+			"<span>滿額贈活動</span>",
+			"",
+			"upload/",
+			"",
+			"../images",
+			"upload/slide_",
+			"/upload/slide_",
+			"src=\"images/",
+			"<p class=\"oprice\"><span class=\"cy\">原價 NT</span>",
+			"",
+			"li",
+			"ul",
+			"<h4 class=\"prodsubtitle\">人氣特賣中!</h4><div class=\"prodprice\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 66.0
+	},
+	"pinned_build_system": "",
+	"project": "proj1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"admin",
+				"web\\admin\\admin_style.css"
+			],
+			[
+				"product",
+				"web\\admin\\product_branch.ascx"
+			],
+			[
+				"cate",
+				"admin\\categories_management.ascx"
+			],
+			[
+				"ad",
+				"admin\\admin_style.css"
+			],
+			[
+				"pd.c",
+				"css\\pd.css"
+			],
+			[
+				"pd.css",
+				"css\\pd.css"
+			],
+			[
+				"left",
+				"LeftItem.ascx"
+			],
+			[
+				"style",
+				"css\\style.css"
+			],
+			[
+				"index.c",
+				"css\\index.css"
+			],
+			[
+				"index",
+				"admin\\index.aspx"
+			],
+			[
+				"pro",
+				"Products.ascx"
+			],
+			[
+				"con",
+				"js\\control.js"
+			],
+			[
+				"ev",
+				"admin\\evaluate_management.ascx"
+			],
+			[
+				"index.css",
+				"css\\index.css"
+			],
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"in",
+				"Index.aspx"
+			],
+			[
+				"lo",
+				"css\\login.css"
+			],
+			[
+				"s",
+				"Service.ascx"
+			],
+			[
+				"styl",
+				"css\\style.css"
+			],
+			[
+				"news",
+				"css\\news.css"
+			],
+			[
+				"pd.",
+				"css\\pd.css"
+			],
+			[
+				"member",
+				"D:\\Webcase\\上官昭儀\\201504\\member2.html"
+			],
+			[
+				"lig",
+				"D:\\Webcase\\酒窩\\web\\login.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Webcase\\玄天國際\\why1609.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
